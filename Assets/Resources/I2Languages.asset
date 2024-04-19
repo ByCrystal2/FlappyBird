@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: CurrentGameTime_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u015Eu an"
+      - Now
+      - Ahora
+      - "\u0627\u0644\u0622\u0646"
+      - "\u0E15\u0E2D\u0E19\u0E19\u0E35\u0E49"
+      - "\u73B0\u5728"
+      - "\u73FE\u5728"
+      Flags: 00000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Spanish (Spain)
+      Code: es-ES
+      Flags: 0
+    - Name: Arabic
+      Code: ar
+      Flags: 0
+    - Name: Thai
+      Code: th
+      Flags: 0
+    - Name: Chinese (Simplified)
+      Code: zh-CN
+      Flags: 0
+    - Name: Chinese (Traditional)
+      Code: zh-TW
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbwYBiIX3B79YPxwt19ociTc9KiAo0Vsw9bNEO-r3dGGkt14j03InMw7KHCq9ijTRmIPBg/exec
+    Google_SpreadsheetKey: 13Aqt4y2FbANi1yWfL3SyUPe0fUwyiqK5c3OQs-RY0CY
+    Google_SpreadsheetName: I2Loc _09012024_FlappyBird_TopetoGD Localization
+    Google_LastUpdatedVersion: 1704882155711
+    Google_Password: -*KosippyStudio-*
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1
